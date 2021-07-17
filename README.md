@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abhishekanand-nitj
-- 👀 I’m interested in Data analyst
+- 👀 I’m interested in Data analytics.
 - 🌱 I’m currently learning analysis tools
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
